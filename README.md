@@ -27,6 +27,6 @@
 <p><a href="https://www.buymeacoffee.com/niikoolaa"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="niikoolaa" /></a></p><br><br>
 
 <h3 align="left">Github Stats:</h3>
-<br></br><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=niikoolaa04&show_icons=true&locale=en&layout=compact" alt="niikoolaa04" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=niikoolaa04&show_icons=true&locale=en&layout=compact" alt="niikoolaa04" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=niikoolaa04&show_icons=true&locale=en" alt="niikoolaa04" /></p>
