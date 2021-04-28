@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/niikoolaa04" target="blank"> <img align="left" alt="niikoolaa04" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />niikoolaa04</a>
+<a href="https://twitter.com/niikoolaa04" target="blank"><img align="left" alt="niikoolaa04" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />niikoolaa04</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -26,6 +26,7 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/niikoolaa"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="niikoolaa" /></a></p><br><br>
 
+<h3 align="left">Github Stats:</h3>
 <br></br><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=niikoolaa04&show_icons=true&locale=en&layout=compact" alt="niikoolaa04" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=niikoolaa04&show_icons=true&locale=en" alt="niikoolaa04" /></p>
