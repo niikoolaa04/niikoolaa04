@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nikola</h1>
-<h3 align="center">I'm 17 y/o and come from Serbia.</h3>
+<h3 align="center">I'm 18 y/o and come from Serbia.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=niikoolaa04&label=Profile%20views&color=0e75b6&style=flat" alt="niikoolaa04" /> </p>
 
